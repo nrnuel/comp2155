@@ -4,17 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test":"echo \"Warning: No tests created yet.\""
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nrnuel/comp2155.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "nrnuel",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nrnuel/comp2155/issues"
   },
   "homepage": "https://github.com/nrnuel/comp2155#readme"
+
+
 }
